@@ -5,9 +5,7 @@ Normals interne wiki
 
 **Merk:** Denne wikien er for intern bruk i Normal, og er antageligvis
 ikke den wikien du er ute etter.  [Prøv heller
-denne](https://github.com/normalnorway/wiki/wiki)
-
-<meta property="og:test" content="This is a test" />
+denne](https://github.com/normalnorway/wiki/wiki).
 
 Ønsker du å klone wikien lokalt, bruk denne adressen:
-@todo ssh url
+<git@github.com:normalnorway/wiki-intern.wiki.git>
