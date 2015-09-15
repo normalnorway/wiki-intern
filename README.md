@@ -8,4 +8,4 @@ ikke den wikien du er ute etter.  [Prøv heller
 denne](https://github.com/normalnorway/wiki/wiki).
 
 Ønsker du å klone wikien lokalt, bruk denne adressen:
-<git@github.com:normalnorway/wiki-intern.wiki.git>
+<git@github.com:normalnorway/wiki-intern.git>
